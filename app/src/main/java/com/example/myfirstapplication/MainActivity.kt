@@ -13,4 +13,7 @@ class MainActivity : AppCompatActivity() {
 
 
     //pull 해볼래
+
+
+    //오 충돌이 없네
 }
